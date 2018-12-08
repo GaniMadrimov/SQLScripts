@@ -1,0 +1,5 @@
+cd C:\Users\Gany\Documents\GitHub\SQLScripts
+git add Bloody.txt
+git status
+git commit -m "cleaning up after text" Bloody.txt
+git push -u origin master
